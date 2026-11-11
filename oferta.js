@@ -1,5 +1,5 @@
 // Cole o link HTTPS oficial do checkout abaixo para habilitar a compra.
-const checkout = "https://pay.kiwify.com.br/7TCMS1e";
+const checkout = "https://pay.kiwify.com.br/aSC7SBh";
 const botao = document.getElementById("comprar");
 try {
   const url = new URL(checkout);
